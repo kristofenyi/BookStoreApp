@@ -1,0 +1,60 @@
+2022-06-10 09:50:15.539 +02:00 [INF] Now listening on: https://localhost:7106
+2022-06-10 09:50:15.575 +02:00 [INF] Now listening on: http://localhost:5257
+2022-06-10 09:50:15.577 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-10 09:50:15.577 +02:00 [INF] Hosting environment: Development
+2022-06-10 09:50:15.577 +02:00 [INF] Content root path: /Users/kristof/Projects/BookStoreApp/BookStoreApp.API/
+2022-06-10 09:50:23.340 +02:00 [INF] Made call to Weather endpoint
+2022-06-10 09:50:23.403 +02:00 [ERR] Fatal Error occured
+System.Exception: This is our loggin test Exception
+   at BookStoreApp.API.Controllers.WeatherForecastController.Get() in /Users/kristof/Projects/BookStoreApp/BookStoreApp.API/Controllers/WeatherForecastController.cs:line 27
+2022-06-10 09:50:27.022 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+System.Exception: This is our loggin test Exception
+   at BookStoreApp.API.Controllers.WeatherForecastController.Get() in /Users/kristof/Projects/BookStoreApp/BookStoreApp.API/Controllers/WeatherForecastController.cs:line 27
+   at lambda_method2(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2022-06-10 10:10:31.892 +02:00 [INF] Now listening on: https://localhost:7106
+2022-06-10 10:10:31.928 +02:00 [INF] Now listening on: http://localhost:5257
+2022-06-10 10:10:31.933 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-10 10:10:31.933 +02:00 [INF] Hosting environment: Development
+2022-06-10 10:10:31.933 +02:00 [INF] Content root path: /Users/kristof/Projects/BookStoreApp/BookStoreApp.API/
+2022-06-10 10:11:29.721 +02:00 [INF] Made call to Weather endpoint
+2022-06-10 10:11:29.819 +02:00 [ERR] Fatal Error occured
+System.Exception: This is our loggin test Exception
+   at BookStoreApp.API.Controllers.WeatherForecastController.Get() in /Users/kristof/Projects/BookStoreApp/BookStoreApp.API/Controllers/WeatherForecastController.cs:line 27
+2022-06-10 10:11:45.325 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+System.Exception: This is our loggin test Exception
+   at BookStoreApp.API.Controllers.WeatherForecastController.Get() in /Users/kristof/Projects/BookStoreApp/BookStoreApp.API/Controllers/WeatherForecastController.cs:line 27
+   at lambda_method2(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
