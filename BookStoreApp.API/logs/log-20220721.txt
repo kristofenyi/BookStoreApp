@@ -1,0 +1,112 @@
+2022-07-21 12:24:01.560 +02:00 [INF] Now listening on: https://localhost:7106
+2022-07-21 12:24:01.600 +02:00 [INF] Now listening on: http://localhost:5257
+2022-07-21 12:24:01.605 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-21 12:24:01.606 +02:00 [INF] Hosting environment: Development
+2022-07-21 12:24:01.607 +02:00 [INF] Content root path: C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\
+2022-07-21 12:48:24.251 +02:00 [INF] Now listening on: https://localhost:7106
+2022-07-21 12:48:24.293 +02:00 [INF] Now listening on: http://localhost:5257
+2022-07-21 12:48:24.302 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-21 12:48:24.303 +02:00 [INF] Hosting environment: Development
+2022-07-21 12:48:24.304 +02:00 [INF] Content root path: C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\
+2022-07-21 14:18:46.978 +02:00 [INF] Now listening on: https://localhost:7106
+2022-07-21 14:18:47.024 +02:00 [INF] Now listening on: http://localhost:5257
+2022-07-21 14:18:47.089 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-21 14:18:47.089 +02:00 [INF] Hosting environment: Development
+2022-07-21 14:18:47.093 +02:00 [INF] Content root path: C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\
+2022-07-21 14:19:21.465 +02:00 [INF] Now listening on: https://localhost:7106
+2022-07-21 14:19:21.512 +02:00 [INF] Now listening on: http://localhost:5257
+2022-07-21 14:19:21.518 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-21 14:19:21.519 +02:00 [INF] Hosting environment: Development
+2022-07-21 14:19:21.520 +02:00 [INF] Content root path: C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\
+2022-07-21 14:20:11.088 +02:00 [INF] Now listening on: https://localhost:7106
+2022-07-21 14:20:11.125 +02:00 [INF] Now listening on: http://localhost:5257
+2022-07-21 14:20:11.130 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-21 14:20:11.130 +02:00 [INF] Hosting environment: Development
+2022-07-21 14:20:11.131 +02:00 [INF] Content root path: C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\
+2022-07-21 14:22:25.745 +02:00 [INF] Now listening on: https://localhost:7106
+2022-07-21 14:22:25.791 +02:00 [INF] Now listening on: http://localhost:5257
+2022-07-21 14:22:25.803 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-21 14:22:25.810 +02:00 [INF] Hosting environment: Development
+2022-07-21 14:22:25.811 +02:00 [INF] Content root path: C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\
+2022-07-21 14:25:55.006 +02:00 [INF] Now listening on: https://localhost:7106
+2022-07-21 14:25:55.064 +02:00 [INF] Now listening on: http://localhost:5257
+2022-07-21 14:25:55.080 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-21 14:25:55.172 +02:00 [INF] Hosting environment: Development
+2022-07-21 14:25:55.190 +02:00 [INF] Content root path: C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\
+2022-07-21 14:28:54.689 +02:00 [INF] Registration Attempt for admin1@bookstore.com
+2022-07-21 16:04:53.312 +02:00 [INF] Now listening on: https://localhost:7106
+2022-07-21 16:04:53.352 +02:00 [INF] Now listening on: http://localhost:5257
+2022-07-21 16:04:53.358 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-21 16:04:53.359 +02:00 [INF] Hosting environment: Development
+2022-07-21 16:04:53.360 +02:00 [INF] Content root path: C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\
+2022-07-21 16:09:39.911 +02:00 [INF] Now listening on: https://localhost:7106
+2022-07-21 16:09:39.954 +02:00 [INF] Now listening on: http://localhost:5257
+2022-07-21 16:09:39.964 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-21 16:09:39.966 +02:00 [INF] Hosting environment: Development
+2022-07-21 16:09:39.995 +02:00 [INF] Content root path: C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\
+2022-07-21 16:43:02.909 +02:00 [INF] Now listening on: https://localhost:7106
+2022-07-21 16:43:02.961 +02:00 [INF] Now listening on: http://localhost:5257
+2022-07-21 16:43:02.969 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-21 16:43:02.970 +02:00 [INF] Hosting environment: Development
+2022-07-21 16:43:02.970 +02:00 [INF] Content root path: C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\
+2022-07-21 16:53:31.247 +02:00 [INF] Now listening on: https://localhost:7106
+2022-07-21 16:53:31.278 +02:00 [INF] Now listening on: http://localhost:5257
+2022-07-21 16:53:31.283 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-21 16:53:31.283 +02:00 [INF] Hosting environment: Development
+2022-07-21 16:53:31.284 +02:00 [INF] Content root path: C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\
+2022-07-21 16:54:07.392 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-07-21 16:54:09.473 +02:00 [WRN] Invalid password for user.
+2022-07-21 16:54:14.238 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-07-21 16:58:06.762 +02:00 [INF] Now listening on: https://localhost:7106
+2022-07-21 16:58:06.802 +02:00 [INF] Now listening on: http://localhost:5257
+2022-07-21 16:58:06.807 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-21 16:58:06.807 +02:00 [INF] Hosting environment: Development
+2022-07-21 16:58:06.808 +02:00 [INF] Content root path: C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\
+2022-07-21 16:58:22.718 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-07-21 16:58:24.133 +02:00 [WRN] Invalid password for user.
+2022-07-21 16:58:41.966 +02:00 [INF] Registration Attempt for user1@test.com
+2022-07-21 16:58:41.983 +02:00 [WRN] User password validation failed: PasswordTooShort;PasswordRequiresNonAlphanumeric;PasswordRequiresDigit;PasswordRequiresUpper.
+2022-07-21 16:58:48.649 +02:00 [INF] Registration Attempt for user1@test.com
+2022-07-21 16:58:48.651 +02:00 [WRN] User password validation failed: PasswordRequiresNonAlphanumeric;PasswordRequiresUpper.
+2022-07-21 16:58:56.403 +02:00 [INF] Registration Attempt for user1@test.com
+2022-07-21 16:58:56.404 +02:00 [WRN] User password validation failed: PasswordRequiresNonAlphanumeric.
+2022-07-21 16:59:05.642 +02:00 [INF] Registration Attempt for user1@test.com
+2022-07-21 16:59:20.305 +02:00 [INF] Login attempt for user@test.com
+2022-07-21 16:59:21.368 +02:00 [INF] Login attempt for user@test.com
+2022-07-21 16:59:56.537 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-07-21 17:02:10.631 +02:00 [INF] Registration Attempt for user2@test.com
+2022-07-21 17:02:22.284 +02:00 [INF] Login attempt for user2@test.com
+2022-07-21 17:07:53.745 +02:00 [INF] Now listening on: https://localhost:7106
+2022-07-21 17:07:53.798 +02:00 [INF] Now listening on: http://localhost:5257
+2022-07-21 17:07:53.801 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-21 17:07:53.802 +02:00 [INF] Hosting environment: Development
+2022-07-21 17:07:53.816 +02:00 [INF] Content root path: C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\
+2022-07-21 17:08:08.024 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-07-21 17:08:33.138 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-07-21 17:31:47.522 +02:00 [INF] Now listening on: https://localhost:7106
+2022-07-21 17:31:47.557 +02:00 [INF] Now listening on: http://localhost:5257
+2022-07-21 17:31:47.563 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-21 17:31:47.563 +02:00 [INF] Hosting environment: Development
+2022-07-21 17:31:47.564 +02:00 [INF] Content root path: C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\
+2022-07-21 17:32:07.169 +02:00 [INF] Now listening on: https://localhost:7106
+2022-07-21 17:32:07.220 +02:00 [INF] Now listening on: http://localhost:5257
+2022-07-21 17:32:07.225 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-21 17:32:07.225 +02:00 [INF] Hosting environment: Development
+2022-07-21 17:32:07.226 +02:00 [INF] Content root path: C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\
+2022-07-21 17:32:42.332 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-07-21 17:32:44.158 +02:00 [WRN] Invalid password for user.
+2022-07-21 17:32:57.497 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-07-21 17:33:50.478 +02:00 [INF] Login attempt for admin@neco.com
+2022-07-21 17:33:53.546 +02:00 [INF] Login attempt for admin@neco.com
+2022-07-21 17:33:53.691 +02:00 [INF] Login attempt for admin@neco.com
+2022-07-21 17:33:57.466 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-07-21 17:33:57.474 +02:00 [WRN] Invalid password for user.
+2022-07-21 17:34:07.910 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-07-21 18:20:29.634 +02:00 [INF] Now listening on: https://localhost:7106
+2022-07-21 18:20:29.672 +02:00 [INF] Now listening on: http://localhost:5257
+2022-07-21 18:20:29.677 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-21 18:20:29.677 +02:00 [INF] Hosting environment: Development
+2022-07-21 18:20:29.678 +02:00 [INF] Content root path: C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\
+2022-07-21 18:20:49.411 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-07-21 18:20:50.326 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-07-21 18:21:08.897 +02:00 [INF] Login attempt for admin@bookstore.com
