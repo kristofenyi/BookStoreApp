@@ -27,3 +27,10 @@
 2022-07-22 14:47:56.895 +02:00 [INF] Application started. Press Ctrl+C to shut down.
 2022-07-22 14:47:56.901 +02:00 [INF] Hosting environment: Development
 2022-07-22 14:47:56.924 +02:00 [INF] Content root path: C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\
+2022-07-22 15:22:58.649 +02:00 [INF] Now listening on: https://localhost:7106
+2022-07-22 15:22:58.691 +02:00 [INF] Now listening on: http://localhost:5257
+2022-07-22 15:22:58.701 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-22 15:22:58.702 +02:00 [INF] Hosting environment: Development
+2022-07-22 15:22:58.703 +02:00 [INF] Content root path: C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\
+2022-07-22 15:23:11.826 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-07-22 15:23:12.713 +02:00 [INF] Login attempt for admin@bookstore.com

@@ -1,0 +1,262 @@
+2022-07-28 09:50:37.337 +02:00 [INF] Now listening on: https://localhost:7106
+2022-07-28 09:50:37.494 +02:00 [INF] Now listening on: http://localhost:5257
+2022-07-28 09:50:37.500 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-28 09:50:37.501 +02:00 [INF] Hosting environment: Development
+2022-07-28 09:50:37.501 +02:00 [INF] Content root path: C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\
+2022-07-28 09:50:58.494 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-07-28 09:51:00.279 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-07-28 09:55:41.028 +02:00 [INF] Now listening on: https://localhost:7106
+2022-07-28 09:55:41.075 +02:00 [INF] Now listening on: http://localhost:5257
+2022-07-28 09:55:41.083 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-28 09:55:41.084 +02:00 [INF] Hosting environment: Development
+2022-07-28 09:55:41.084 +02:00 [INF] Content root path: C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\
+2022-07-28 09:55:51.072 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-07-28 09:55:51.545 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-07-28 10:01:16.232 +02:00 [INF] Now listening on: https://localhost:7106
+2022-07-28 10:01:16.275 +02:00 [INF] Now listening on: http://localhost:5257
+2022-07-28 10:01:16.286 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-28 10:01:16.289 +02:00 [INF] Hosting environment: Development
+2022-07-28 10:01:16.291 +02:00 [INF] Content root path: C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\
+2022-07-28 10:01:27.865 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-07-28 10:01:28.400 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-07-28 10:01:29.421 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-07-28 10:06:52.316 +02:00 [INF] Now listening on: https://localhost:7106
+2022-07-28 10:06:52.389 +02:00 [INF] Now listening on: http://localhost:5257
+2022-07-28 10:06:52.395 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-28 10:06:52.396 +02:00 [INF] Hosting environment: Development
+2022-07-28 10:06:52.397 +02:00 [INF] Content root path: C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\
+2022-07-28 10:07:03.855 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-07-28 10:07:04.824 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-07-28 12:38:45.227 +02:00 [INF] Now listening on: https://localhost:7106
+2022-07-28 12:38:45.270 +02:00 [INF] Now listening on: http://localhost:5257
+2022-07-28 12:38:45.275 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-28 12:38:45.276 +02:00 [INF] Hosting environment: Development
+2022-07-28 12:38:45.277 +02:00 [INF] Content root path: C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\
+2022-07-28 12:45:26.348 +02:00 [INF] Now listening on: https://localhost:7106
+2022-07-28 12:45:26.384 +02:00 [INF] Now listening on: http://localhost:5257
+2022-07-28 12:45:26.418 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-28 12:45:26.419 +02:00 [INF] Hosting environment: Development
+2022-07-28 12:45:26.420 +02:00 [INF] Content root path: C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\
+2022-07-28 12:48:43.472 +02:00 [INF] Now listening on: https://localhost:7106
+2022-07-28 12:48:43.516 +02:00 [INF] Now listening on: http://localhost:5257
+2022-07-28 12:48:43.534 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-28 12:48:43.536 +02:00 [INF] Hosting environment: Development
+2022-07-28 12:48:43.537 +02:00 [INF] Content root path: C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\
+2022-07-28 12:48:58.487 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-07-28 12:48:59.425 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-07-28 12:52:30.202 +02:00 [INF] Now listening on: https://localhost:7106
+2022-07-28 12:52:30.243 +02:00 [INF] Now listening on: http://localhost:5257
+2022-07-28 12:52:30.253 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-28 12:52:30.253 +02:00 [INF] Hosting environment: Development
+2022-07-28 12:52:30.255 +02:00 [INF] Content root path: C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\
+2022-07-28 12:52:43.356 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-07-28 12:52:43.854 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-07-28 13:01:00.726 +02:00 [INF] Now listening on: https://localhost:7106
+2022-07-28 13:01:00.761 +02:00 [INF] Now listening on: http://localhost:5257
+2022-07-28 13:01:00.766 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-28 13:01:00.768 +02:00 [INF] Hosting environment: Development
+2022-07-28 13:01:00.768 +02:00 [INF] Content root path: C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\
+2022-07-28 13:01:17.359 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-07-28 13:29:39.308 +02:00 [INF] Now listening on: https://localhost:7106
+2022-07-28 13:29:39.437 +02:00 [INF] Now listening on: http://localhost:5257
+2022-07-28 13:29:39.542 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-28 13:29:39.543 +02:00 [INF] Hosting environment: Development
+2022-07-28 13:29:39.544 +02:00 [INF] Content root path: C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\
+2022-07-28 13:30:10.399 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-07-28 13:33:47.405 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-07-28 13:36:15.843 +02:00 [INF] Now listening on: https://localhost:7106
+2022-07-28 13:36:15.876 +02:00 [INF] Now listening on: http://localhost:5257
+2022-07-28 13:36:15.881 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-28 13:36:15.881 +02:00 [INF] Hosting environment: Development
+2022-07-28 13:36:15.882 +02:00 [INF] Content root path: C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\
+2022-07-28 13:36:54.398 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-07-28 13:37:06.871 +02:00 [ERR] Error performing GETGetAuthors
+System.InvalidOperationException: Missing map from BookStoreApp.API.Data.Book to BookStoreApp.API.Models.Author.AuthorReadOnlyDto. Create using CreateMap<Book, AuthorReadOnlyDto>.
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.CreateProjectionCore(ProjectionRequest& request, Expression instanceParameter, LetPropertyMaps letPropertyMaps, TypeMap& typeMap)
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.CreateProjection(ProjectionRequest& request, LetPropertyMaps letPropertyMaps)
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.AutoMapper.QueryableExtensions.Impl.IProjectionBuilder.CreateProjection(ProjectionRequest& request, LetPropertyMaps letPropertyMaps)
+   at AutoMapper.QueryableExtensions.Impl.EnumerableProjectionMapper.Project(IGlobalConfiguration configuration, MemberMap memberMap, TypeMap memberTypeMap, ProjectionRequest& request, Expression resolvedSource, LetPropertyMaps letPropertyMaps)
+   at AutoMapper.QueryableExtensions.Impl.EnumerableProjectionMapper.AutoMapper.QueryableExtensions.Impl.IProjectionMapper.Project(IGlobalConfiguration configuration, MemberMap memberMap, TypeMap memberTypeMap, ProjectionRequest& request, Expression resolvedSource, LetPropertyMaps letPropertyMaps)
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.<>c__DisplayClass10_0.<CreateProjectionCore>g__ProjectMemberCore|7(<>c__DisplayClass10_1& )
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.<>c__DisplayClass10_0.<CreateProjectionCore>g__TryProjectMember|2(MemberMap memberMap, Nullable`1 explicitExpansion)
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.<>c__DisplayClass10_0.<CreateProjectionCore>g__ProjectProperties|1()
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.CreateProjectionCore(ProjectionRequest request, Expression instanceParameter, TypeMap typeMap, LetPropertyMaps letPropertyMaps)
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.CreateProjectionCore(ProjectionRequest& request, Expression instanceParameter, LetPropertyMaps letPropertyMaps, TypeMap& typeMap)
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.CreateProjection(ProjectionRequest& request, LetPropertyMaps letPropertyMaps)
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.CreateProjection(ProjectionRequest request)
+   at AutoMapper.Internal.LockingConcurrentDictionary`2.<>c__DisplayClass1_1.<.ctor>b__1()
+   at System.Lazy`1.ViaFactory(LazyThreadSafetyMode mode)
+   at System.Lazy`1.ExecutionAndPublication(LazyHelper executionAndPublication, Boolean useDefaultConstructor)
+   at System.Lazy`1.CreateValue()
+   at System.Lazy`1.get_Value()
+   at AutoMapper.Internal.LockingConcurrentDictionary`2.GetOrAdd(TKey& key)
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.GetProjection(Type sourceType, Type destinationType, Object parameters, MemberPath[] membersToExpand)
+   at AutoMapper.QueryableExtensions.Extensions.ProjectionExpression.ToCore(Type destinationType, Object parameters, IEnumerable`1 memberPathsToExpand)
+   at AutoMapper.QueryableExtensions.Extensions.ProjectionExpression.ToCore[TResult](Object parameters, IEnumerable`1 memberPathsToExpand)
+   at AutoMapper.QueryableExtensions.Extensions.ProjectionExpression.To[TResult](Object parameters, Expression`1[] membersToExpand)
+   at AutoMapper.QueryableExtensions.Extensions.ProjectTo[TDestination](IQueryable source, IConfigurationProvider configuration, Object parameters, Expression`1[] membersToExpand)
+   at AutoMapper.QueryableExtensions.Extensions.ProjectTo[TDestination](IQueryable source, IConfigurationProvider configuration, Expression`1[] membersToExpand)
+   at BookStoreApp.API.Controllers.AuthorsController.GetAuthor(Int32 id) in C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\Controllers\AuthorsController.cs:line 59
+2022-07-28 13:37:16.206 +02:00 [ERR] Error performing GETGetAuthors
+System.InvalidOperationException: Missing map from BookStoreApp.API.Data.Book to BookStoreApp.API.Models.Author.AuthorReadOnlyDto. Create using CreateMap<Book, AuthorReadOnlyDto>.
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.CreateProjectionCore(ProjectionRequest& request, Expression instanceParameter, LetPropertyMaps letPropertyMaps, TypeMap& typeMap)
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.CreateProjection(ProjectionRequest& request, LetPropertyMaps letPropertyMaps)
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.AutoMapper.QueryableExtensions.Impl.IProjectionBuilder.CreateProjection(ProjectionRequest& request, LetPropertyMaps letPropertyMaps)
+   at AutoMapper.QueryableExtensions.Impl.EnumerableProjectionMapper.Project(IGlobalConfiguration configuration, MemberMap memberMap, TypeMap memberTypeMap, ProjectionRequest& request, Expression resolvedSource, LetPropertyMaps letPropertyMaps)
+   at AutoMapper.QueryableExtensions.Impl.EnumerableProjectionMapper.AutoMapper.QueryableExtensions.Impl.IProjectionMapper.Project(IGlobalConfiguration configuration, MemberMap memberMap, TypeMap memberTypeMap, ProjectionRequest& request, Expression resolvedSource, LetPropertyMaps letPropertyMaps)
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.<>c__DisplayClass10_0.<CreateProjectionCore>g__ProjectMemberCore|7(<>c__DisplayClass10_1& )
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.<>c__DisplayClass10_0.<CreateProjectionCore>g__TryProjectMember|2(MemberMap memberMap, Nullable`1 explicitExpansion)
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.<>c__DisplayClass10_0.<CreateProjectionCore>g__ProjectProperties|1()
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.CreateProjectionCore(ProjectionRequest request, Expression instanceParameter, TypeMap typeMap, LetPropertyMaps letPropertyMaps)
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.CreateProjectionCore(ProjectionRequest& request, Expression instanceParameter, LetPropertyMaps letPropertyMaps, TypeMap& typeMap)
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.CreateProjection(ProjectionRequest& request, LetPropertyMaps letPropertyMaps)
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.CreateProjection(ProjectionRequest request)
+   at AutoMapper.Internal.LockingConcurrentDictionary`2.<>c__DisplayClass1_1.<.ctor>b__1()
+   at System.Lazy`1.ViaFactory(LazyThreadSafetyMode mode)
+--- End of stack trace from previous location ---
+   at System.LazyHelper.ThrowException()
+   at System.Lazy`1.CreateValue()
+   at System.Lazy`1.get_Value()
+   at AutoMapper.Internal.LockingConcurrentDictionary`2.GetOrAdd(TKey& key)
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.GetProjection(Type sourceType, Type destinationType, Object parameters, MemberPath[] membersToExpand)
+   at AutoMapper.QueryableExtensions.Extensions.ProjectionExpression.ToCore(Type destinationType, Object parameters, IEnumerable`1 memberPathsToExpand)
+   at AutoMapper.QueryableExtensions.Extensions.ProjectionExpression.ToCore[TResult](Object parameters, IEnumerable`1 memberPathsToExpand)
+   at AutoMapper.QueryableExtensions.Extensions.ProjectionExpression.To[TResult](Object parameters, Expression`1[] membersToExpand)
+   at AutoMapper.QueryableExtensions.Extensions.ProjectTo[TDestination](IQueryable source, IConfigurationProvider configuration, Object parameters, Expression`1[] membersToExpand)
+   at AutoMapper.QueryableExtensions.Extensions.ProjectTo[TDestination](IQueryable source, IConfigurationProvider configuration, Expression`1[] membersToExpand)
+   at BookStoreApp.API.Controllers.AuthorsController.GetAuthor(Int32 id) in C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\Controllers\AuthorsController.cs:line 59
+2022-07-28 13:39:19.453 +02:00 [INF] Now listening on: https://localhost:7106
+2022-07-28 13:39:19.490 +02:00 [INF] Now listening on: http://localhost:5257
+2022-07-28 13:39:19.496 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-28 13:39:19.497 +02:00 [INF] Hosting environment: Development
+2022-07-28 13:39:19.498 +02:00 [INF] Content root path: C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\
+2022-07-28 13:39:38.523 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-07-28 13:40:02.579 +02:00 [ERR] Error performing GETGetAuthors
+System.InvalidOperationException: Missing map from BookStoreApp.API.Data.Book to BookStoreApp.API.Models.Author.AuthorReadOnlyDto. Create using CreateMap<Book, AuthorReadOnlyDto>.
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.CreateProjectionCore(ProjectionRequest& request, Expression instanceParameter, LetPropertyMaps letPropertyMaps, TypeMap& typeMap)
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.CreateProjection(ProjectionRequest& request, LetPropertyMaps letPropertyMaps)
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.AutoMapper.QueryableExtensions.Impl.IProjectionBuilder.CreateProjection(ProjectionRequest& request, LetPropertyMaps letPropertyMaps)
+   at AutoMapper.QueryableExtensions.Impl.EnumerableProjectionMapper.Project(IGlobalConfiguration configuration, MemberMap memberMap, TypeMap memberTypeMap, ProjectionRequest& request, Expression resolvedSource, LetPropertyMaps letPropertyMaps)
+   at AutoMapper.QueryableExtensions.Impl.EnumerableProjectionMapper.AutoMapper.QueryableExtensions.Impl.IProjectionMapper.Project(IGlobalConfiguration configuration, MemberMap memberMap, TypeMap memberTypeMap, ProjectionRequest& request, Expression resolvedSource, LetPropertyMaps letPropertyMaps)
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.<>c__DisplayClass10_0.<CreateProjectionCore>g__ProjectMemberCore|7(<>c__DisplayClass10_1& )
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.<>c__DisplayClass10_0.<CreateProjectionCore>g__TryProjectMember|2(MemberMap memberMap, Nullable`1 explicitExpansion)
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.<>c__DisplayClass10_0.<CreateProjectionCore>g__ProjectProperties|1()
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.CreateProjectionCore(ProjectionRequest request, Expression instanceParameter, TypeMap typeMap, LetPropertyMaps letPropertyMaps)
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.CreateProjectionCore(ProjectionRequest& request, Expression instanceParameter, LetPropertyMaps letPropertyMaps, TypeMap& typeMap)
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.CreateProjection(ProjectionRequest& request, LetPropertyMaps letPropertyMaps)
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.CreateProjection(ProjectionRequest request)
+   at AutoMapper.Internal.LockingConcurrentDictionary`2.<>c__DisplayClass1_1.<.ctor>b__1()
+   at System.Lazy`1.ViaFactory(LazyThreadSafetyMode mode)
+   at System.Lazy`1.ExecutionAndPublication(LazyHelper executionAndPublication, Boolean useDefaultConstructor)
+   at System.Lazy`1.CreateValue()
+   at System.Lazy`1.get_Value()
+   at AutoMapper.Internal.LockingConcurrentDictionary`2.GetOrAdd(TKey& key)
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.GetProjection(Type sourceType, Type destinationType, Object parameters, MemberPath[] membersToExpand)
+   at AutoMapper.QueryableExtensions.Extensions.ProjectionExpression.ToCore(Type destinationType, Object parameters, IEnumerable`1 memberPathsToExpand)
+   at AutoMapper.QueryableExtensions.Extensions.ProjectionExpression.ToCore[TResult](Object parameters, IEnumerable`1 memberPathsToExpand)
+   at AutoMapper.QueryableExtensions.Extensions.ProjectionExpression.To[TResult](Object parameters, Expression`1[] membersToExpand)
+   at AutoMapper.QueryableExtensions.Extensions.ProjectTo[TDestination](IQueryable source, IConfigurationProvider configuration, Object parameters, Expression`1[] membersToExpand)
+   at AutoMapper.QueryableExtensions.Extensions.ProjectTo[TDestination](IQueryable source, IConfigurationProvider configuration, Expression`1[] membersToExpand)
+   at BookStoreApp.API.Controllers.AuthorsController.GetAuthor(Int32 id) in C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\Controllers\AuthorsController.cs:line 59
+2022-07-28 13:41:16.746 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-07-28 13:41:26.744 +02:00 [ERR] Error performing GETGetAuthors
+System.InvalidOperationException: Missing map from BookStoreApp.API.Data.Book to BookStoreApp.API.Models.Author.AuthorReadOnlyDto. Create using CreateMap<Book, AuthorReadOnlyDto>.
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.CreateProjectionCore(ProjectionRequest& request, Expression instanceParameter, LetPropertyMaps letPropertyMaps, TypeMap& typeMap)
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.CreateProjection(ProjectionRequest& request, LetPropertyMaps letPropertyMaps)
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.AutoMapper.QueryableExtensions.Impl.IProjectionBuilder.CreateProjection(ProjectionRequest& request, LetPropertyMaps letPropertyMaps)
+   at AutoMapper.QueryableExtensions.Impl.EnumerableProjectionMapper.Project(IGlobalConfiguration configuration, MemberMap memberMap, TypeMap memberTypeMap, ProjectionRequest& request, Expression resolvedSource, LetPropertyMaps letPropertyMaps)
+   at AutoMapper.QueryableExtensions.Impl.EnumerableProjectionMapper.AutoMapper.QueryableExtensions.Impl.IProjectionMapper.Project(IGlobalConfiguration configuration, MemberMap memberMap, TypeMap memberTypeMap, ProjectionRequest& request, Expression resolvedSource, LetPropertyMaps letPropertyMaps)
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.<>c__DisplayClass10_0.<CreateProjectionCore>g__ProjectMemberCore|7(<>c__DisplayClass10_1& )
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.<>c__DisplayClass10_0.<CreateProjectionCore>g__TryProjectMember|2(MemberMap memberMap, Nullable`1 explicitExpansion)
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.<>c__DisplayClass10_0.<CreateProjectionCore>g__ProjectProperties|1()
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.CreateProjectionCore(ProjectionRequest request, Expression instanceParameter, TypeMap typeMap, LetPropertyMaps letPropertyMaps)
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.CreateProjectionCore(ProjectionRequest& request, Expression instanceParameter, LetPropertyMaps letPropertyMaps, TypeMap& typeMap)
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.CreateProjection(ProjectionRequest& request, LetPropertyMaps letPropertyMaps)
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.CreateProjection(ProjectionRequest request)
+   at AutoMapper.Internal.LockingConcurrentDictionary`2.<>c__DisplayClass1_1.<.ctor>b__1()
+   at System.Lazy`1.ViaFactory(LazyThreadSafetyMode mode)
+--- End of stack trace from previous location ---
+   at System.LazyHelper.ThrowException()
+   at System.Lazy`1.CreateValue()
+   at System.Lazy`1.get_Value()
+   at AutoMapper.Internal.LockingConcurrentDictionary`2.GetOrAdd(TKey& key)
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.GetProjection(Type sourceType, Type destinationType, Object parameters, MemberPath[] membersToExpand)
+   at AutoMapper.QueryableExtensions.Extensions.ProjectionExpression.ToCore(Type destinationType, Object parameters, IEnumerable`1 memberPathsToExpand)
+   at AutoMapper.QueryableExtensions.Extensions.ProjectionExpression.ToCore[TResult](Object parameters, IEnumerable`1 memberPathsToExpand)
+   at AutoMapper.QueryableExtensions.Extensions.ProjectionExpression.To[TResult](Object parameters, Expression`1[] membersToExpand)
+   at AutoMapper.QueryableExtensions.Extensions.ProjectTo[TDestination](IQueryable source, IConfigurationProvider configuration, Object parameters, Expression`1[] membersToExpand)
+   at AutoMapper.QueryableExtensions.Extensions.ProjectTo[TDestination](IQueryable source, IConfigurationProvider configuration, Expression`1[] membersToExpand)
+   at BookStoreApp.API.Controllers.AuthorsController.GetAuthor(Int32 id) in C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\Controllers\AuthorsController.cs:line 59
+2022-07-28 13:41:31.049 +02:00 [ERR] Error performing GETGetAuthors
+System.InvalidOperationException: Missing map from BookStoreApp.API.Data.Book to BookStoreApp.API.Models.Author.AuthorReadOnlyDto. Create using CreateMap<Book, AuthorReadOnlyDto>.
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.CreateProjectionCore(ProjectionRequest& request, Expression instanceParameter, LetPropertyMaps letPropertyMaps, TypeMap& typeMap)
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.CreateProjection(ProjectionRequest& request, LetPropertyMaps letPropertyMaps)
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.AutoMapper.QueryableExtensions.Impl.IProjectionBuilder.CreateProjection(ProjectionRequest& request, LetPropertyMaps letPropertyMaps)
+   at AutoMapper.QueryableExtensions.Impl.EnumerableProjectionMapper.Project(IGlobalConfiguration configuration, MemberMap memberMap, TypeMap memberTypeMap, ProjectionRequest& request, Expression resolvedSource, LetPropertyMaps letPropertyMaps)
+   at AutoMapper.QueryableExtensions.Impl.EnumerableProjectionMapper.AutoMapper.QueryableExtensions.Impl.IProjectionMapper.Project(IGlobalConfiguration configuration, MemberMap memberMap, TypeMap memberTypeMap, ProjectionRequest& request, Expression resolvedSource, LetPropertyMaps letPropertyMaps)
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.<>c__DisplayClass10_0.<CreateProjectionCore>g__ProjectMemberCore|7(<>c__DisplayClass10_1& )
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.<>c__DisplayClass10_0.<CreateProjectionCore>g__TryProjectMember|2(MemberMap memberMap, Nullable`1 explicitExpansion)
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.<>c__DisplayClass10_0.<CreateProjectionCore>g__ProjectProperties|1()
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.CreateProjectionCore(ProjectionRequest request, Expression instanceParameter, TypeMap typeMap, LetPropertyMaps letPropertyMaps)
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.CreateProjectionCore(ProjectionRequest& request, Expression instanceParameter, LetPropertyMaps letPropertyMaps, TypeMap& typeMap)
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.CreateProjection(ProjectionRequest& request, LetPropertyMaps letPropertyMaps)
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.CreateProjection(ProjectionRequest request)
+   at AutoMapper.Internal.LockingConcurrentDictionary`2.<>c__DisplayClass1_1.<.ctor>b__1()
+   at System.Lazy`1.ViaFactory(LazyThreadSafetyMode mode)
+--- End of stack trace from previous location ---
+   at System.LazyHelper.ThrowException()
+   at System.Lazy`1.CreateValue()
+   at System.Lazy`1.get_Value()
+   at AutoMapper.Internal.LockingConcurrentDictionary`2.GetOrAdd(TKey& key)
+   at AutoMapper.QueryableExtensions.Impl.ProjectionBuilder.GetProjection(Type sourceType, Type destinationType, Object parameters, MemberPath[] membersToExpand)
+   at AutoMapper.QueryableExtensions.Extensions.ProjectionExpression.ToCore(Type destinationType, Object parameters, IEnumerable`1 memberPathsToExpand)
+   at AutoMapper.QueryableExtensions.Extensions.ProjectionExpression.ToCore[TResult](Object parameters, IEnumerable`1 memberPathsToExpand)
+   at AutoMapper.QueryableExtensions.Extensions.ProjectionExpression.To[TResult](Object parameters, Expression`1[] membersToExpand)
+   at AutoMapper.QueryableExtensions.Extensions.ProjectTo[TDestination](IQueryable source, IConfigurationProvider configuration, Object parameters, Expression`1[] membersToExpand)
+   at AutoMapper.QueryableExtensions.Extensions.ProjectTo[TDestination](IQueryable source, IConfigurationProvider configuration, Expression`1[] membersToExpand)
+   at BookStoreApp.API.Controllers.AuthorsController.GetAuthor(Int32 id) in C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\Controllers\AuthorsController.cs:line 59
+2022-07-28 13:46:55.347 +02:00 [INF] Now listening on: https://localhost:7106
+2022-07-28 13:46:55.384 +02:00 [INF] Now listening on: http://localhost:5257
+2022-07-28 13:46:55.389 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-28 13:46:55.390 +02:00 [INF] Hosting environment: Development
+2022-07-28 13:46:55.390 +02:00 [INF] Content root path: C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\
+2022-07-28 13:47:10.319 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-07-28 15:29:30.683 +02:00 [INF] Now listening on: https://localhost:7106
+2022-07-28 15:29:30.718 +02:00 [INF] Now listening on: http://localhost:5257
+2022-07-28 15:29:30.724 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-28 15:29:30.724 +02:00 [INF] Hosting environment: Development
+2022-07-28 15:29:30.725 +02:00 [INF] Content root path: C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\
+2022-07-28 15:52:44.991 +02:00 [INF] Now listening on: https://localhost:7106
+2022-07-28 15:52:45.032 +02:00 [INF] Now listening on: http://localhost:5257
+2022-07-28 15:52:45.038 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-28 15:52:45.039 +02:00 [INF] Hosting environment: Development
+2022-07-28 15:52:45.039 +02:00 [INF] Content root path: C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\
+2022-07-28 15:52:57.367 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-07-28 15:52:58.343 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-07-28 16:09:55.763 +02:00 [INF] Now listening on: https://localhost:7106
+2022-07-28 16:09:55.805 +02:00 [INF] Now listening on: http://localhost:5257
+2022-07-28 16:09:55.812 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-28 16:09:55.813 +02:00 [INF] Hosting environment: Development
+2022-07-28 16:09:55.814 +02:00 [INF] Content root path: C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\
+2022-07-28 16:10:10.465 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-07-28 16:19:03.109 +02:00 [INF] Now listening on: https://localhost:7106
+2022-07-28 16:19:03.277 +02:00 [INF] Now listening on: http://localhost:5257
+2022-07-28 16:19:03.365 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-28 16:19:03.367 +02:00 [INF] Hosting environment: Development
+2022-07-28 16:19:03.368 +02:00 [INF] Content root path: C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\
+2022-07-28 16:19:24.856 +02:00 [INF] Login attempt for user@bookstore.com
+2022-07-28 16:19:25.356 +02:00 [INF] Login attempt for user@bookstore.com
+2022-07-28 16:20:44.279 +02:00 [INF] Now listening on: https://localhost:7106
+2022-07-28 16:20:44.313 +02:00 [INF] Now listening on: http://localhost:5257
+2022-07-28 16:20:44.317 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-28 16:20:44.318 +02:00 [INF] Hosting environment: Development
+2022-07-28 16:20:44.318 +02:00 [INF] Content root path: C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\
+2022-07-28 16:20:58.175 +02:00 [INF] Login attempt for user@bookstore.com
+2022-07-28 16:20:58.847 +02:00 [INF] Login attempt for user@bookstore.com
+2022-07-28 16:24:02.632 +02:00 [INF] Now listening on: https://localhost:7106
+2022-07-28 16:24:02.665 +02:00 [INF] Now listening on: http://localhost:5257
+2022-07-28 16:24:02.670 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-28 16:24:02.670 +02:00 [INF] Hosting environment: Development
+2022-07-28 16:24:02.671 +02:00 [INF] Content root path: C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\
+2022-07-28 16:24:17.597 +02:00 [INF] Login attempt for user@bookstore.com
+2022-07-28 16:24:17.694 +02:00 [INF] Login attempt for user@bookstore.com
