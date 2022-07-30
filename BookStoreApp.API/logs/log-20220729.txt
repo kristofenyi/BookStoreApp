@@ -1,0 +1,216 @@
+2022-07-29 12:49:31.050 +02:00 [INF] Now listening on: https://localhost:7106
+2022-07-29 12:49:31.949 +02:00 [INF] Now listening on: http://localhost:5257
+2022-07-29 12:49:31.959 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-29 12:49:31.960 +02:00 [INF] Hosting environment: Development
+2022-07-29 12:49:31.963 +02:00 [INF] Content root path: C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\
+2022-07-29 12:50:08.087 +02:00 [INF] Now listening on: https://localhost:7106
+2022-07-29 12:50:08.116 +02:00 [INF] Now listening on: http://localhost:5257
+2022-07-29 12:50:08.119 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-29 12:50:08.120 +02:00 [INF] Hosting environment: Development
+2022-07-29 12:50:08.120 +02:00 [INF] Content root path: C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\
+2022-07-29 13:01:27.836 +02:00 [INF] Now listening on: https://localhost:7106
+2022-07-29 13:01:28.183 +02:00 [INF] Now listening on: http://localhost:5257
+2022-07-29 13:01:28.244 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-29 13:01:28.261 +02:00 [INF] Hosting environment: Development
+2022-07-29 13:01:28.279 +02:00 [INF] Content root path: C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\
+2022-07-29 13:03:36.668 +02:00 [INF] Now listening on: https://localhost:7106
+2022-07-29 13:03:36.714 +02:00 [INF] Now listening on: http://localhost:5257
+2022-07-29 13:03:36.723 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-29 13:03:36.724 +02:00 [INF] Hosting environment: Development
+2022-07-29 13:03:36.724 +02:00 [INF] Content root path: C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\
+2022-07-29 13:04:09.514 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-07-29 13:04:10.395 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-07-29 13:04:14.325 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-07-29 13:04:17.718 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-07-29 13:04:51.673 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-07-29 13:16:40.236 +02:00 [INF] Now listening on: https://localhost:7106
+2022-07-29 13:16:40.270 +02:00 [INF] Now listening on: http://localhost:5257
+2022-07-29 13:16:40.275 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-29 13:16:40.278 +02:00 [INF] Hosting environment: Development
+2022-07-29 13:16:40.278 +02:00 [INF] Content root path: C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\
+2022-07-29 13:42:04.724 +02:00 [INF] Now listening on: https://localhost:7106
+2022-07-29 13:42:04.772 +02:00 [INF] Now listening on: http://localhost:5257
+2022-07-29 13:42:04.778 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-29 13:42:04.778 +02:00 [INF] Hosting environment: Development
+2022-07-29 13:42:04.779 +02:00 [INF] Content root path: C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\
+2022-07-29 13:42:19.680 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-07-29 13:46:50.115 +02:00 [INF] Now listening on: https://localhost:7106
+2022-07-29 13:46:50.153 +02:00 [INF] Now listening on: http://localhost:5257
+2022-07-29 13:46:50.160 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-29 13:46:50.160 +02:00 [INF] Hosting environment: Development
+2022-07-29 13:46:50.161 +02:00 [INF] Content root path: C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\
+2022-07-29 13:47:31.759 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-07-29 13:49:22.926 +02:00 [INF] Now listening on: https://localhost:7106
+2022-07-29 13:49:22.968 +02:00 [INF] Now listening on: http://localhost:5257
+2022-07-29 13:49:22.974 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-29 13:49:22.975 +02:00 [INF] Hosting environment: Development
+2022-07-29 13:49:22.976 +02:00 [INF] Content root path: C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\
+2022-07-29 13:57:50.418 +02:00 [INF] Now listening on: https://localhost:7106
+2022-07-29 13:57:50.457 +02:00 [INF] Now listening on: http://localhost:5257
+2022-07-29 13:57:50.464 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-29 13:57:50.465 +02:00 [INF] Hosting environment: Development
+2022-07-29 13:57:50.465 +02:00 [INF] Content root path: C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\
+2022-07-29 13:58:15.342 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-07-29 13:58:16.956 +02:00 [WRN] Invalid password for user.
+2022-07-29 13:58:21.710 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-07-29 13:58:21.758 +02:00 [WRN] Invalid password for user.
+2022-07-29 13:58:27.139 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-07-29 13:58:27.159 +02:00 [WRN] Invalid password for user.
+2022-07-29 13:58:27.249 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-07-29 13:58:27.257 +02:00 [WRN] Invalid password for user.
+2022-07-29 13:58:33.819 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-07-29 14:01:27.426 +02:00 [INF] Now listening on: https://localhost:7106
+2022-07-29 14:01:27.487 +02:00 [INF] Now listening on: http://localhost:5257
+2022-07-29 14:01:27.499 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-29 14:01:27.500 +02:00 [INF] Hosting environment: Development
+2022-07-29 14:01:27.502 +02:00 [INF] Content root path: C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\
+2022-07-29 14:01:41.418 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-07-29 14:05:25.197 +02:00 [INF] Now listening on: https://localhost:7106
+2022-07-29 14:05:25.313 +02:00 [INF] Now listening on: http://localhost:5257
+2022-07-29 14:05:25.333 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-29 14:05:25.334 +02:00 [INF] Hosting environment: Development
+2022-07-29 14:05:25.335 +02:00 [INF] Content root path: C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\
+2022-07-29 14:06:20.768 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-07-29 21:09:14.882 +02:00 [INF] Now listening on: https://localhost:7106
+2022-07-29 21:09:14.919 +02:00 [INF] Now listening on: http://localhost:5257
+2022-07-29 21:09:14.922 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-29 21:09:14.923 +02:00 [INF] Hosting environment: Development
+2022-07-29 21:09:14.924 +02:00 [INF] Content root path: C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\
+2022-07-29 21:16:57.766 +02:00 [INF] Now listening on: https://localhost:7106
+2022-07-29 21:16:57.797 +02:00 [INF] Now listening on: http://localhost:5257
+2022-07-29 21:16:57.800 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-29 21:16:57.801 +02:00 [INF] Hosting environment: Development
+2022-07-29 21:16:57.801 +02:00 [INF] Content root path: C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\
+2022-07-29 21:19:28.559 +02:00 [INF] Now listening on: https://localhost:7106
+2022-07-29 21:19:28.645 +02:00 [INF] Now listening on: http://localhost:5257
+2022-07-29 21:19:28.659 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-29 21:19:28.664 +02:00 [INF] Hosting environment: Development
+2022-07-29 21:19:28.664 +02:00 [INF] Content root path: C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\
+2022-07-29 21:19:46.510 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-07-29 21:21:38.232 +02:00 [INF] Now listening on: https://localhost:7106
+2022-07-29 21:21:38.337 +02:00 [INF] Now listening on: http://localhost:5257
+2022-07-29 21:21:38.348 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-29 21:21:38.348 +02:00 [INF] Hosting environment: Development
+2022-07-29 21:21:38.349 +02:00 [INF] Content root path: C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\
+2022-07-29 21:21:54.336 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-07-29 21:23:28.264 +02:00 [INF] Now listening on: https://localhost:7106
+2022-07-29 21:23:28.320 +02:00 [INF] Now listening on: http://localhost:5257
+2022-07-29 21:23:28.326 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-29 21:23:28.327 +02:00 [INF] Hosting environment: Development
+2022-07-29 21:23:28.327 +02:00 [INF] Content root path: C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\
+2022-07-29 21:23:45.560 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-07-29 21:24:23.794 +02:00 [ERR] Failed executing DbCommand (607ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?' (Size = 4000), @p2='?' (Size = 50), @p3='?' (Precision = 18) (Scale = 2) (DbType = Decimal), @p4='?' (Size = 250), @p5='?' (Size = 50), @p6='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Books] ([AuthorId], [Image], [ISBN], [Price], [Summary], [Title], [Year])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6);
+SELECT [Id]
+FROM [Books]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();
+2022-07-29 21:24:23.826 +02:00 [ERR] An exception occurred in the database while saving changes for context type 'BookStoreApp.API.Data.BookStoreDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): String or binary data would be truncated in table 'BookStoreDb.dbo.Books', column 'Image'. Truncated value: 'https://localhost:7106/bookcoverimages/63e30388-49'.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__188_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:622f8b6f-0669-4afc-8c0e-cd650a338145
+Error Number:2628,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): String or binary data would be truncated in table 'BookStoreDb.dbo.Books', column 'Image'. Truncated value: 'https://localhost:7106/bookcoverimages/63e30388-49'.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__188_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:622f8b6f-0669-4afc-8c0e-cd650a338145
+Error Number:2628,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2022-07-29 21:24:23.993 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): String or binary data would be truncated in table 'BookStoreDb.dbo.Books', column 'Image'. Truncated value: 'https://localhost:7106/bookcoverimages/63e30388-49'.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__188_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:622f8b6f-0669-4afc-8c0e-cd650a338145
+Error Number:2628,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at BookStoreApp.API.Controllers.BooksController.PostBook(BookCreateDto bookDto) in C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\Controllers\BooksController.cs:line 107
+   at lambda_method239(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2022-07-29 21:29:15.990 +02:00 [INF] Now listening on: https://localhost:7106
+2022-07-29 21:29:16.060 +02:00 [INF] Now listening on: http://localhost:5257
+2022-07-29 21:29:16.067 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-29 21:29:16.068 +02:00 [INF] Hosting environment: Development
+2022-07-29 21:29:16.068 +02:00 [INF] Content root path: C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\
+2022-07-29 21:29:26.997 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-07-29 21:31:58.059 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-07-29 21:31:58.069 +02:00 [WRN] Invalid password for user.
+2022-07-29 21:32:04.284 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-07-29 21:34:55.090 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-07-29 21:36:44.493 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-07-29 21:37:36.415 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-07-29 21:39:40.179 +02:00 [INF] Now listening on: https://localhost:7106
+2022-07-29 21:39:40.214 +02:00 [INF] Now listening on: http://localhost:5257
+2022-07-29 21:39:40.219 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-29 21:39:40.220 +02:00 [INF] Hosting environment: Development
+2022-07-29 21:39:40.220 +02:00 [INF] Content root path: C:\Users\krist\Source\Repos\3p1demicz\BookStoreApp\BookStoreApp.API\
+2022-07-29 21:39:51.741 +02:00 [INF] Login attempt for admin@bookstore.com

@@ -33,5 +33,9 @@
     <None Remove="Serilog.Sinks.Seq" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\bookcoverimages\" />
+  </ItemGroup>
+
   <ProjectExtensions><VisualStudio><UserProperties appsettings_1json__JsonSchema="" /></VisualStudio></ProjectExtensions>
 </Project>
