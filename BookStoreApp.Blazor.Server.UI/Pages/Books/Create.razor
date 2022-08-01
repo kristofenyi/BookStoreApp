@@ -83,7 +83,6 @@
         {
             Authors = response.Data;
         }
-
     }
 
     private async Task HandleBookCreate()
@@ -93,26 +92,22 @@
         {
             BackToList();
         }
-
     }
-    private void BackToList()
-    {
-        navManager.NavigateTo("/books/");
-    }
+    
     private async Task HandleFileSelection(InputFileChangeEventArgs e)
     {
         var file = e.File;
-        if (file != null)
+        if(file != null)
         {
-            if (file.Size > maxFileSize)
+            if(file.Size > maxFileSize)
             {
-                UploadFileWarning = "Your file is over 5MB limit";
-                return;
+                UploadFileWarning = "Please select a valid image file (*.jpg | *.png)";
+                
             }
             var ext = System.IO.Path.GetExtension(file.Name);
-            if ((ext.ToLower().Contains("jpg") || ext.ToLower().Contains("png") || ext.ToLower().Contains("jpeg") == false))
+            if((ext.ToLower().Contains("jpg") || ext.ToLower().Contains("png") || ext.ToLower().Contains("jpeg")) == false)
             {
-                UploadFileWarning = "Please select a valid image type (.jpg or .png)";
+                UploadFileWarning = "Please select a valid image file (*.jpg | *.png)";
                 return;
             }
             var byteArray = new byte[file.Size];
@@ -124,5 +119,10 @@
             Book.OriginalImageName = file.Name;
             img = $"data:{imageType}; base64, {base64String}";
         }
+    }
+
+    private void BackToList()
+    {
+        navManager.NavigateTo("/books/");
     }
 }

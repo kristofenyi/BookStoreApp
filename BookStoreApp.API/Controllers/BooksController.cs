@@ -112,9 +112,12 @@ namespace BookStoreApp.API.Controllers
         [Authorize(Roles = "Administrator")]
         public async Task<ActionResult<BookCreateDto>> PostBook(BookCreateDto bookDto)
         {
-            
+
             var book = mapper.Map<Book>(bookDto);
-            book.Image = CreateFile(bookDto.ImageData, bookDto.OriginalImageName);
+            if (string.IsNullOrEmpty(bookDto.ImageData) == false)
+            {
+                book.Image = CreateFile(bookDto.ImageData, bookDto.OriginalImageName);
+            }
             _context.Books.Add(book);
             await _context.SaveChangesAsync();
 
@@ -147,7 +150,7 @@ namespace BookStoreApp.API.Controllers
             var url = HttpContext.Request.Host.Value;
             var ext = Path.GetExtension(imageName);
             var fileName = $"{Guid.NewGuid()}{ext}";
-            
+
             var path = $"{webHostEnvironment.WebRootPath}\\bookcoverimages\\{fileName}";
 
             byte[] image = Convert.FromBase64String(imageBase64);
