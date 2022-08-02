@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
+using BookStoreApp.API.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -15,6 +16,9 @@ builder.Services.AddDbContext<BookStoreDbContext>(options => options.UseSqlServe
 builder.Services.AddIdentityCore<ApiUser>()
     .AddRoles<IdentityRole>()
     .AddEntityFrameworkStores<BookStoreDbContext>();
+
+builder.Services.AddScoped<IAuthorsRepository, AuthorsRepository>();
+builder.Services.AddScoped<IBooksRepository, BooksRepository>();
 
 builder.Services.AddAutoMapper(typeof(MapperConfig));
 

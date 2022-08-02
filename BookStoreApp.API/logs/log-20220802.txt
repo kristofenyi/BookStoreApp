@@ -1,0 +1,74 @@
+2022-08-02 10:41:21.619 +02:00 [INF] Now listening on: https://localhost:7106
+2022-08-02 10:41:21.705 +02:00 [INF] Now listening on: http://localhost:5257
+2022-08-02 10:41:21.737 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-08-02 10:41:21.737 +02:00 [INF] Hosting environment: Development
+2022-08-02 10:41:21.738 +02:00 [INF] Content root path: C:\Users\krist\source\repos\BookStoreApp\BookStoreApp.API\
+2022-08-02 10:41:36.175 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-08-02 10:43:29.891 +02:00 [INF] Now listening on: https://localhost:7106
+2022-08-02 10:43:29.937 +02:00 [INF] Now listening on: http://localhost:5257
+2022-08-02 10:43:29.944 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-08-02 10:43:29.944 +02:00 [INF] Hosting environment: Development
+2022-08-02 10:43:29.945 +02:00 [INF] Content root path: C:\Users\krist\source\repos\BookStoreApp\BookStoreApp.API\
+2022-08-02 12:01:27.230 +02:00 [INF] Now listening on: https://localhost:7106
+2022-08-02 12:01:27.275 +02:00 [INF] Now listening on: http://localhost:5257
+2022-08-02 12:01:27.281 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-08-02 12:01:27.281 +02:00 [INF] Hosting environment: Development
+2022-08-02 12:01:27.282 +02:00 [INF] Content root path: C:\Users\krist\source\repos\BookStoreApp\BookStoreApp.API\
+2022-08-02 12:03:32.486 +02:00 [INF] Now listening on: https://localhost:7106
+2022-08-02 12:03:32.536 +02:00 [INF] Now listening on: http://localhost:5257
+2022-08-02 12:03:32.543 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-08-02 12:03:32.545 +02:00 [INF] Hosting environment: Development
+2022-08-02 12:03:32.546 +02:00 [INF] Content root path: C:\Users\krist\source\repos\BookStoreApp\BookStoreApp.API\
+2022-08-02 12:04:37.240 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-08-02 12:05:50.467 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-08-02 12:05:56.968 +02:00 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+2022-08-02 12:05:56.969 +02:00 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+2022-08-02 12:09:23.452 +02:00 [INF] Now listening on: https://localhost:7106
+2022-08-02 12:09:23.579 +02:00 [INF] Now listening on: http://localhost:5257
+2022-08-02 12:09:23.601 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-08-02 12:09:23.603 +02:00 [INF] Hosting environment: Development
+2022-08-02 12:09:23.604 +02:00 [INF] Content root path: C:\Users\krist\source\repos\BookStoreApp\BookStoreApp.API\
+2022-08-02 12:09:35.523 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-08-02 12:09:39.812 +02:00 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+2022-08-02 12:09:39.815 +02:00 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+2022-08-02 12:11:52.206 +02:00 [INF] Now listening on: https://localhost:7106
+2022-08-02 12:11:52.255 +02:00 [INF] Now listening on: http://localhost:5257
+2022-08-02 12:11:52.260 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-08-02 12:11:52.260 +02:00 [INF] Hosting environment: Development
+2022-08-02 12:11:52.261 +02:00 [INF] Content root path: C:\Users\krist\source\repos\BookStoreApp\BookStoreApp.API\
+2022-08-02 13:23:53.039 +02:00 [INF] Now listening on: https://localhost:7106
+2022-08-02 13:23:53.097 +02:00 [INF] Now listening on: http://localhost:5257
+2022-08-02 13:23:53.107 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-08-02 13:23:53.108 +02:00 [INF] Hosting environment: Development
+2022-08-02 13:23:53.109 +02:00 [INF] Content root path: C:\Users\krist\source\repos\BookStoreApp\BookStoreApp.API\
+2022-08-02 13:24:14.188 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-08-02 13:24:18.384 +02:00 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+2022-08-02 13:24:18.386 +02:00 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+2022-08-02 13:24:34.428 +02:00 [INF] Now listening on: https://localhost:7106
+2022-08-02 13:24:34.479 +02:00 [INF] Now listening on: http://localhost:5257
+2022-08-02 13:24:34.484 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-08-02 13:24:34.485 +02:00 [INF] Hosting environment: Development
+2022-08-02 13:24:34.485 +02:00 [INF] Content root path: C:\Users\krist\source\repos\BookStoreApp\BookStoreApp.API\
+2022-08-02 13:26:15.820 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-08-02 13:27:30.312 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-08-02 13:27:31.809 +02:00 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+2022-08-02 13:27:31.812 +02:00 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+2022-08-02 13:27:53.613 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-08-02 13:35:03.495 +02:00 [INF] Now listening on: https://localhost:7106
+2022-08-02 13:35:03.527 +02:00 [INF] Now listening on: http://localhost:5257
+2022-08-02 13:35:03.530 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-08-02 13:35:03.533 +02:00 [INF] Hosting environment: Development
+2022-08-02 13:35:03.534 +02:00 [INF] Content root path: C:\Users\krist\source\repos\BookStoreApp\BookStoreApp.API\
+2022-08-02 13:35:42.445 +02:00 [INF] Now listening on: https://localhost:7106
+2022-08-02 13:35:42.506 +02:00 [INF] Now listening on: http://localhost:5257
+2022-08-02 13:35:42.511 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-08-02 13:35:42.512 +02:00 [INF] Hosting environment: Development
+2022-08-02 13:35:42.513 +02:00 [INF] Content root path: C:\Users\krist\source\repos\BookStoreApp\BookStoreApp.API\
+2022-08-02 13:44:42.422 +02:00 [INF] Now listening on: https://localhost:7106
+2022-08-02 13:44:42.475 +02:00 [INF] Now listening on: http://localhost:5257
+2022-08-02 13:44:42.481 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-08-02 13:44:42.483 +02:00 [INF] Hosting environment: Development
+2022-08-02 13:44:42.484 +02:00 [INF] Content root path: C:\Users\krist\source\repos\BookStoreApp\BookStoreApp.API\
+2022-08-02 13:44:55.884 +02:00 [INF] Login attempt for admin@bookstore.com
+2022-08-02 13:45:00.398 +02:00 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+2022-08-02 13:45:00.399 +02:00 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
